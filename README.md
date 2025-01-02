@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @datadevsam
+- 👋 Hi, I’m @devinsam
 - 👀 I’m interested in data
 - 🌱 I’m currently a data scientist
 - 💞️ I’m looking to collaborate on model building
